@@ -61,4 +61,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at parahelium.games@gmail.com.
-
