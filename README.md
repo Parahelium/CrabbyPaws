@@ -1,4 +1,4 @@
-# CrabbyPaws
+# GrabbyPaws
 ## Privacy Policy
 
 Parahelium built the GrabbyPaws app as a Free app. This SERVICE is provided by Parahelium at no cost and is intended for use as is.
@@ -20,6 +20,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Appodeal](https://www.appodeal.com/home/privacy-policy)
 
 **Log Data**
 
